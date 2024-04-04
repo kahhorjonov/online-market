@@ -9,7 +9,7 @@
     },
     "main_menu": {
       "catalog": "Katalog",
-      "buyers": "For buyers",
+      "buyers": "Xaridorlar uchun",
       "contacts": "Kontaktlar",
       "cloth": "Kiyimlar",
       "accessories": "Aksessuarlar",
@@ -20,12 +20,13 @@
       "blog": "Blog",
       "shipping": "Yetkazish va to'lov",
       "returns": "Qaytarilgan tovarlar",
-      "tg": "Telegram"
+      "tg": "Telegram",
+      "linkedin": "Linkedin"
     },
     "comparison": {
       "umbrella": "Soyabonlar",
       "bags": "Sumkalar",
-      "outerwear": "Outerwear",
+      "outerwear": "Ustki kiyimlar",
       "long-sleeves": "Long-sleeves",
       "headdress": "Headdress",
       "hoodie": "Hudilar",
@@ -58,7 +59,8 @@
       "blog": "Blog",
       "shipping": "Shipping and payment",
       "returns": "Purchase returns",
-      "tg": "Telegram"
+      "tg": "Telegram",
+      "linkedin": "Linkedin"
     },
     "comparison": {
       "umbrella": "Umbrellas",
@@ -96,7 +98,8 @@
       "blog": "Блог",
       "shipping": "Доставка и оплата",
       "returns": "Возврат товара",
-      "tg": "Телеграм"
+      "tg": "Телеграм",
+      "linkedin": "Linkedin"
     },
     "comparison": {
       "umbrella": "Зонты",
