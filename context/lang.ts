@@ -5,5 +5,5 @@ const lang = createDomain();
 
 export const setLang = lang.createEvent<AllowedLangs>();
 export const $lang = lang
-  .createStore(AllowedLangs.RU)
+  .createStore(AllowedLangs.UZ)
   .on(setLang, (_, lang) => lang);

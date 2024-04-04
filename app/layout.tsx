@@ -1,9 +1,9 @@
-import "bootstrap/dist/css/bootstrap.css";
+import Layout from "@/components/layouts/Layout";
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
 import "./globalStyles/globals.css";
-
-const inter = Inter({ subsets: ["latin"] });
+import "./globalStyles/header.css";
+import "./globalStyles/menu.css";
+import "./globalStyles/normalize.css";
 
 export default function RootLayout({
   children,
@@ -12,7 +12,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body>
+        <Layout>{children}</Layout>
+      </body>
     </html>
   );
 }
